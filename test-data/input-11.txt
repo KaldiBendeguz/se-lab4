@@ -1,0 +1,4 @@
+# SINGLE: secondary lott utoljara, az elsodleges ures, a masodlagosban van
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
