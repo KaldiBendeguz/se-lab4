@@ -1,0 +1,4 @@
+# SINGLE: a masodlagos ures, ezert ujra az elsodlegosbol lo
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

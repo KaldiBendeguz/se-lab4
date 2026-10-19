@@ -1,0 +1,4 @@
+# SINGLE: a masodlagos tarolo hibazik
+GT4500,1,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# SINGLE: primary lott utoljara, most a masodlagos is ures, ezert nem tud loni
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
