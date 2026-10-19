@@ -1,0 +1,3 @@
+# SINGLE, az elsodleges ures, a masodlagosban van torpedo
+GT4500,0,0,10,0
+TORPEDO,SINGLE

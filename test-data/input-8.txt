@@ -1,0 +1,5 @@
+# SINGLE valtogatas: mindkettoben 1 torpedo, a 3. loves mar nem sikerulhet
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
